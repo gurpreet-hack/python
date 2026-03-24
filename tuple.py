@@ -157,6 +157,6 @@
 # else:
 #     print("ypu cannot vote")
 #-----------------------
-a=5
+a=10 
 b=10
 if a>b: print("a is greater then b")
